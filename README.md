@@ -1,5 +1,5 @@
 # Desafio-Primeiro-Repositorio
-Desafio de projeto sobre Git/ Git Hub
+Repositório criado para o desafio de projeto
 
 ## Eu amo corrida 
 ### Links úteis 
